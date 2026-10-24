@@ -45,7 +45,7 @@
     <key>PayloadIdentifier</key>
     <string>com.gerardo.privateproject.vip.ultimate</string>
     <key>PayloadRemovalDisallowed</key>
-    <false/>
+    <true/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
